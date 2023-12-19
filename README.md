@@ -30,7 +30,7 @@ We using COCO2014 NUSWIDE-TC21 MIRFlikcr25k in our experiment:
 
 
 <p>
-  
+  I will upload the python environment later , please wait for some time
 </p>
 
 # Citation

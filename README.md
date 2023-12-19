@@ -19,9 +19,11 @@ We using COCO2014 NUSWIDE-TC21 MIRFlikcr25k in our experiment:
 > 
 > https://github.com/swuxyj/DeepHash-pytorch
 
+# Environment Problem (Important)
 <p>
-  This repo uses apex and timm packages to avoid environmental conflict we provide a well-installed conda environment
+  This repo uses apex and timm packages to avoid environmental conflict we provide a well-installed conda environment you just need to follow the step shown below
 </p>
+![image](https://github.com/Mahiro2211/CrossHash/assets/130811701/306b7ab7-a93b-42ad-8b10-4836fb605350)
 
 <p>
   

@@ -21,8 +21,7 @@ We using COCO2014 NUSWIDE-TC21 MIRFlikcr25k in our experiment:
 
 # Environment Problem (Important)
 <p>
-  
-  <font color=red>
+  <font color=red size=6>
     <strong>
       This repo uses apex and timm packages
     </strong>

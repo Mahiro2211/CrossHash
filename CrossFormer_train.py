@@ -97,7 +97,7 @@ def get_config():
         "datasets": "cifar10",
         # "datasets":'nuswide_21',
         # "datasets":'coco',
-        "Label_dim" : 10,
+        "Label_dim" : 10, # number_class nuswide:21 coco:80 mirflickr:38
         "epoch": 600,
         "test_map": 0,
         "save_path": "save/HashNet",

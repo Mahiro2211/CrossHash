@@ -21,7 +21,16 @@ We using COCO2014 NUSWIDE-TC21 MIRFlikcr25k in our experiment:
 
 # Environment Problem (Important)
 <p>
-  This repo uses apex and timm packages to avoid environmental conflict we provide a well-installed conda environment you just need to follow the step shown below
+  
+  <font color=red>
+    <strong>
+      This repo uses apex and timm packages
+    </strong>
+  </font>
+</p>
+
+<p>
+   To avoid environmental conflict we provide a well-installed conda environment you just need to follow the step shown below
 </p>
 
 

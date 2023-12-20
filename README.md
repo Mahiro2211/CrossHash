@@ -30,7 +30,9 @@ We using COCO2014 NUSWIDE-TC21 MIRFlikcr25k in our experiment:
 
 
 <p>
-  Using this Python interpreter to avoid environmental conflict
+  <strong>
+    Using this Python interpreter to avoid environmental conflict
+  </strong>
 </p>
 
 <p>

@@ -30,7 +30,13 @@ We using COCO2014 NUSWIDE-TC21 MIRFlikcr25k in our experiment:
 
 
 <p>
-  I will upload the python environment later , please wait for some time
+  Using this Python interpreter to avoid environmental conflict
+</p>
+
+<p>
+  链接：https://pan.baidu.com/s/1rMGOdoAi8kZxWZAWsFgh9A?pwd=1026 
+  提取码：1026 
+  --来自百度网盘超级会员V4的分享
 </p>
 
 # Citation
